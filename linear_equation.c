@@ -7,5 +7,5 @@ void main()
     a=5;
     b=8;
     c=18;
-    printf("%dx+%dy=%d",a,b,c);
+    printf("The linear equation is %dx+%dy=%d",a,b,c);
 }
